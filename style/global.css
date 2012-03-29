@@ -1,0 +1,19 @@
+
+
+
+
+.clsedsprt	{
+	background:white url('../images/support-open.gif') top right no-repeat;
+}
+
+.opensprt	{background:white url('../images/support-close.gif') top right no-repeat;}
+
+
+
+#left {
+	float:left;
+	padding-top:15px;
+	padding-left:20px;
+	width:680px;
+	margin-bottom:20px;
+}

@@ -1,0 +1,82 @@
+
+
+cite {
+	color:#2d94d2;
+	font-size:0.92em;
+}
+
+blockquote {
+	font-style:italic;
+	margin-left: 40px; margin-right: 40px;
+}
+
+#quickLinks {
+	background-image:url("../images/biocrom_support.gif");
+	width:200px;
+	height:200px;
+	margin:20px 0;
+}
+
+#main, #wide-main {
+	background-image:url("../images/main-bnr.png");
+	background-repeat:no-repeat;
+	background-position:top left;
+}
+
+.imageRight {
+	float:right;
+	margin-left:10px;
+	margin-bottom:10px;
+	border:1px solid #c2cacb;
+}
+
+.imageLeft {
+	float:left;
+	margin-right:10px;
+	margin-bottom:10px;
+	border:1px solid #c2cacb;
+}
+
+.fullwidth {
+	border:1px solid #c2cacb;
+}
+
+table{
+	border-left:1px solid #c2cacb;
+	border-bottom:1px solid #c2cacb;
+	margin-bottom:12px;
+}
+
+caption{
+	color:#fff;
+	background-color: #034179;
+	border:1px solid #c2cacb;
+	border-top:1px solid #c2cacb;
+	text-align:left;
+	padding:0px 20px;
+	line-height:30px;
+	font-weight:bold;
+}
+
+
+tr th {
+	color: #fff;
+	padding: 13px 8px;
+	/*line-height:30px;*/
+	text-align:left;
+	background: #fff url('../images/table-th.png') top left repeat-x;
+}
+
+tr td {
+	padding: 4px 8px;
+	background-color:#fff;
+	/*height:20px;*/
+	border-right:1px solid #c2cacb;
+	border-top:1px solid #c2cacb;
+	line-height:1.5em;
+}
+
+.starBox {
+	float:right;
+}
+

@@ -1,0 +1,264 @@
+
+
+
+
+.clsedsprt	{
+	background:white url('../images/support-open.gif') top right no-repeat;
+}
+
+.opensprt	{background:white url('../images/support-close.gif') top right no-repeat;}
+
+
+
+
+a {
+	outline:none;
+	color:#4daadc;
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+p{
+	margin:0 0 1.12em 0;
+	line-height:1.5em;
+}
+
+
+
+.cleaner {
+	height:1px;
+	line-height:1px;
+	clear:both;
+}
+
+
+
+#main {
+	padding:60px 20px 20px 20px;
+}
+
+#wide-main {
+	padding:60px 20px 20px 20px;
+}
+
+#home-main {
+	padding:0 20px 20px 20px;
+}
+
+#left {
+	float:left;
+	padding-top:15px;
+	padding-left:20px;
+	width:680px;
+	margin-bottom:20px;
+}
+
+#all {
+	padding-top:15px;
+	padding-left:20px;
+}
+
+#right {
+	float:right;
+	width:200px;
+}
+
+.panel {
+	margin:20px 0;
+	padding-bottom:20px;
+	background-color:#e7e7e8;
+	background-image:url("../images/panel.gif");
+	background-position:bottom;
+	background-repeat:no-repeat;
+}
+
+.noStripes {
+	background-image:url("../images/panel2.gif");
+}
+
+.panel h3 {
+	background-image:url("../images/panel_h3.gif");
+	background-position:top;
+	background-repeat:no-repeat;
+	text-align:center;
+	font-size:1.5em;
+	color:#17467e;
+	padding-top:2px;
+	padding-bottom:17px;
+	height:22px;
+}
+
+.panel li{
+	list-style:none;
+	background-image:url("../images/li4.png");
+	background-position:left top;
+	background-repeat:no-repeat;
+	font-size:0.92em;
+	padding:9px 0 9px 23px;
+}
+
+#productMenu li {
+	font-size:1em;
+	font-weight:bold;
+}
+
+.panel li:first-child {
+	padding-top:0;
+	background-image:url("../images/li2.png");
+}
+
+.panel li.even {
+	background-color:#dbdbdc;
+}
+
+.panel a{
+	color:#17467e;
+}
+
+.panel_inner {
+	padding:0 20px;
+}
+
+.searchPanel {
+	margin:20px 0;
+	background-image:url("../images/searchPanel.gif");
+	background-position:top;
+	background-repeat:no-repeat;
+	text-align:center;
+	width:200px;
+	height:80px;
+}
+
+.searchPanel h3 {
+	font-size:1.5em;
+	color:#fff;
+	padding-top:2px;
+	padding-bottom:14px;
+}
+
+.txt {
+	width:120px;
+	height:16px;
+	padding:2px 0;
+	border:1px solid #8c8d92;
+}
+
+.newstextbox {
+	float:left;
+	padding-left:15px;
+	width:122px;
+}
+
+
+.orderItems {
+	padding:0 10px;
+}
+
+.orderItems img {
+	cursor: pointer;
+}
+
+.viewThis, .backLink {
+	color:#4daadc;
+	font-weight:bold;
+	padding-left:20px;
+	background-image:url("../images/li3.png");
+	background-repeat:no-repeat;
+	background-position:left;
+}
+
+#sitemap {
+	background-image:url("../images/sitemap.png");
+	background-repeat:no-repeat;
+	background-position:bottom;
+	background-color:#f1f1f1;
+	width:920px;
+	clear:both;
+	overflow:hidden;
+	position:relative;
+}
+
+#sitemap img{
+	cursor:pointer;
+}
+
+.sitemapBox {
+	width:190px;
+	float:left;
+	padding:5px 20px 35px 20px;
+}
+		
+.sitemapBox ul { padding: 0 0 0 0; margin: 0;}
+.sitemapBox ul li { list-style: none; padding: 0 0 6px 0; }
+.sitemapBox ul li a { color: #333333; font-weight: bold; text-decoration: none;}
+.sitemapBox ul li a:hover { color: #333333; text-decoration: underline;}
+
+.sitemapBox ul ul { padding: 0; margin: 0;}
+.sitemapBox ul ul li { list-style: none; padding: 4px 0 0 0;}
+
+.sitemapBox ul ul li a {color: #17467e;text-decoration: none; font-weight: normal;font-size:0.92em; }
+.sitemapBox ul ul li a:hover {color: #17467e; text-decoration: underline;}
+
+.sitemapBox ul ul ul { padding-left:10px; }
+		
+#sitemapBottom {
+	height:55px;
+	position:relative;
+}
+
+#sitemapBottom ul {
+	list-style: none;
+	color:#fff;
+	position:absolute;
+	bottom:10px;
+	right:10px;
+}
+
+#sitemapBottom li {
+	background-image:url("../images/sitemap_li.gif");
+	background-position:left;
+	background-repeat:no-repeat;
+	height:22px;
+	line-height:22px;
+	font-size:0.92em;
+	padding:0 15px;
+	float:left;
+}
+
+#sitemapBottom li:first-child {
+	background-image:none;
+}
+
+#sitemapBottom li a {
+	color:#00afd1;
+	text-decoration:none;
+}
+
+#sitemapBottom li a:hover {
+	text-decoration:underline;
+}
+
+#sitemapContent {
+	display:none;
+}
+
+#footer {
+	height:40px;
+	line-height:45px;
+	color:#cdcdd0;
+	font-size:0.92em;
+	font-weight:bold;
+	overflow:hidden;
+}
+
+#footer img{
+	vertical-align:middle;
+}
+
+.fivesite{
+	float:right;
+}
+

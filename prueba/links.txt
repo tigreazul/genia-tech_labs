@@ -1,0 +1,7 @@
+WEBS:
+
+
+http://blackearthskate.com/geniatech/index.php
+http://blackearthskate.com/geniatech/categoria.php
+http://blackearthskate.com/geniatech/detalle.php
+categoria.php
