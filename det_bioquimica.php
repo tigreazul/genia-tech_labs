@@ -186,7 +186,7 @@ $(document).ready(function() {
 														<!-- end boton -->
 														<div style="margin-right:-9px">
 															<div style="width:100px; float:left;margin-right:-21px">
-																<a href="http://www.genia-tech.com/demo/pdf/CATALOGO_Cypress_Diagnostics_2012.pdf" target="_blank" class="more sub-more wishlist"><span>Ver</span></a>
+																<a href="http://www.genia-tech.com/pdf/CATALOGO_Cypress_Diagnostics_2012.pdf" target="_blank" class="more sub-more wishlist"><span>Ver</span></a>
 															</div>
 															<div style="width:174px; float:left">
 																<a href="http://www.diagnostics.be/" target="_blank" class="more sub-more compare"><span>Cypress Diagnostics</span></a>
@@ -201,22 +201,15 @@ $(document).ready(function() {
 												
 												<div id="gallery">
 												
-													<div class="clearfix" id="content" style="width:357px;"  >
-    <div class="clearfix" style="margin-left:46px;float:left">
-        <a href="imgProd/bioquimica/bioquimica_1.jpg" class="jqzoom" rel='gal1'  title="Genia-tech" >
-            <img src="imgProd/bioquimica/bioquimica_2.jpg"  title="Genia-tech"  style="border: 4px solid #666;">
-        </a>
-	
-    </div>
+																							<div class="clearfix" id="content" style="width:357px;"  >
+										    <div class="clearfix" style="margin-left:46px;float:left">
+										        <a href="imgProd/bioquimica/bioquimica_1.jpg" class="jqzoom" rel='gal1'  title="Genia-tech" >
+										            <img src="imgProd/bioquimica/bioquimica_2.jpg"  title="Genia-tech"  style="border: 4px solid #666;">
+										        </a>
+											
+								   		 </div>
 	<br/>
-      <!--  <div class="clearfix" >
-	<ul id="thumblist" class="clearfix" style="float:left">
-		<li><a class="zoomThumbActive" href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './imgProd/rectivos_d_diag/bioquimica3.jpg',largeimage: './imgProd/triumph_big1.jpg'}">
-		<img src='imgProd/thumbs/bioquimica2.jpg'></a></li>
-		<li><a href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './imgProd/triumph_small2.jpg',largeimage: './imgProd/triumph_big2.jpg'}"><img src='imgProd/thumbs/triumph_thumb2.jpg'></a></li>
-		<li><a  href='javascript:void(0);' rel="{gallery: 'gal1', smallimage: './imgProd/triumph_small3.jpg',largeimage: './imgProd/triumph_big3.jpg'}"><img src='imgProd/thumbs/triumph_thumb3.jpg'></a></li>
-	</ul>
-	</div>-->
+    
 </div>
 												
 												</div>
